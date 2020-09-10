@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "TM-Lab-G3",
+    "owner": "Group 3",
+    "description": "Testing Microservices demo (sock-shop)"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "G3-TM",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Group3-masters"
+  }
+}
